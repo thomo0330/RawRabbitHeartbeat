@@ -1,0 +1,4 @@
+D:\Repos\Work\Raw.Rabbit.Heartbeat\Raw.Rabbit.Heartbeat\bin\Debug\netcoreapp1.1\Raw.Rabbit.Heartbeat.deps.json
+D:\Repos\Work\Raw.Rabbit.Heartbeat\Raw.Rabbit.Heartbeat\bin\Debug\netcoreapp1.1\Raw.Rabbit.Heartbeat.dll
+D:\Repos\Work\Raw.Rabbit.Heartbeat\Raw.Rabbit.Heartbeat\obj\Debug\netcoreapp1.1\Raw.Rabbit.Heartbeat.csprojResolveAssemblyReference.cache
+D:\Repos\Work\Raw.Rabbit.Heartbeat\Raw.Rabbit.Heartbeat\obj\Debug\netcoreapp1.1\Raw.Rabbit.Heartbeat.AssemblyInfo.cs
